@@ -1,0 +1,21 @@
+{
+  "name": "todomvc-static-page",
+  "version": "1.0.0",
+  "authors": [
+    "Liucw <liucw.mail@gmail.com>"
+  ],
+  "description": "todoMVC static page",
+  "main": "index.html",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "todomvc-app-css": "~2.0.1",
+    "todomvc-common": "~1.0.2"
+  }
+}
